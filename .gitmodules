@@ -1,0 +1,3 @@
+[submodule "childmodule"]
+	path = childmodule
+	url = https://github.com/jenkinsmohan/child1.git
